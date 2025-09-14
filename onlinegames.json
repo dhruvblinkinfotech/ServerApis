@@ -1,0 +1,47 @@
+[
+	{
+		"title": "Slither.io",
+		"image": "https://blinkgames007.github.io/assets/img_slitherio.png",
+		"link": "https://blinkgames007.github.io/Games/slither.io/home.html"
+	},
+	{
+		"title": "Chess",
+		"image": "https://blinkgames007.github.io/assets/img_chess.jpg",
+		"link": "https://blinkgames007.github.io/Games/chess/setup.html"
+	},
+	{
+		"title": "Puzzle",
+		"image": "https://blinkgames007.github.io/assets/img_puzzle.jpg",
+		"link": "https://blinkgames007.github.io/Games/puzzle/index.html"
+	},
+	{
+		"title": "Hextris",
+		"image": "https://blinkgames007.github.io/assets/img_hextris.png",
+		"link": "https://blinkgames007.github.io/Games/hextris/index.html"
+	},
+	{
+		"title": "Polyominoblocks",
+		"image": "https://blinkgames007.github.io/assets/img_polyomino.jpg",
+		"link": "https://blinkgames007.github.io/Games/polyominoblocks/index.html"
+	},
+	{
+		"title": "Tic tac toe",
+		"image": "https://blinkgames007.github.io/assets/img_tictactoe.webp",
+		"link": "https://blinkgames007.github.io/Games/tictactoe/setup.html"
+	},
+	{
+		"title": "Snake Game",
+		"image": "https://blinkgames007.github.io/assets/img_tictactoe.webp",
+		"link": "https://blinkgames007.github.io/Games/snakegame/index.html"
+	},
+	{
+		"title": "2048",
+		"image": "https://blinkgames007.github.io/assets/img_2048.png",
+		"link": "https://blinkgames007.github.io/Games/2048/index.html"
+	},
+	{
+		title: "Spider Solitaire",
+		image: "https://blinkgames007.github.io/assets/img_spidercard.jpg",
+		link: "https://blinkgames007.github.io/Games/spidercard/Spider.htm"
+	}
+]
