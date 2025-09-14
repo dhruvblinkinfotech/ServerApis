@@ -40,9 +40,8 @@
 		"link": "https://blinkgames007.github.io/Games/2048/index.html"
 	},
 	{
-		title: "Spider Solitaire",
-		image: "https://blinkgames007.github.io/assets/img_spidercard.jpg",
-		link: "https://blinkgames007.github.io/Games/spidercard/Spider.htm"
+		"title": "Spider Solitaire",
+		"image": "https://blinkgames007.github.io/assets/img_spidercard.jpg",
+		"link": "https://blinkgames007.github.io/Games/spidercard/Spider.htm"
 	}
-
 ]
