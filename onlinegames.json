@@ -31,7 +31,7 @@
 	},
 	{
 		"title": "Snake Game",
-		"image": "https://blinkgames007.github.io/assets/img_tictactoe.webp",
+		"image": "https://blinkgames007.github.io/assets/img_snakegame.jpg",
 		"link": "https://blinkgames007.github.io/Games/snakegame/index.html"
 	},
 	{
@@ -44,4 +44,5 @@
 		image: "https://blinkgames007.github.io/assets/img_spidercard.jpg",
 		link: "https://blinkgames007.github.io/Games/spidercard/Spider.htm"
 	}
+
 ]
