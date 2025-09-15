@@ -1,0 +1,30 @@
+{
+	"id": 0,
+	"title": "Case Of Clans",
+	"icon": "https://img.tapimg.net/market/images/fa287b05123aa2b973d5de564a2d530b.png/appicon_s?t=1",
+	"banner": "https://img.tapimg.net/market/images/c80a480d41a1dafd162414123f797514.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+	"ratings": {
+					"total": "268",
+					"average": "9.0"
+				},
+	"tags": [
+		{
+			"tagtitle": "Hello"
+		},
+		{
+			"tagtitle": "World"
+		}
+	],
+	"dev": "Supercell",
+	"platforms": [
+		{
+			"name": "Android",
+			"link":	"www.example.com",
+		},
+			{
+			"name": "ios",
+			"link":	"www.example.com",
+		}
+	],
+	"description": "abc",
+}
