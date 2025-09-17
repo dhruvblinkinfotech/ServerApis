@@ -1,0 +1,62 @@
+[
+  {
+    "image": "https://image.freepik.com/free-photo/children-playing-soccer-in-the-park_1232-4567.jpg",  
+    "title": "Soccer",
+    "benefits": "Great cardiovascular workout; improves leg strength; boosts agility and coordination; fosters teamwork and communication; accessible in many places with minimal equipment.",
+    "drawback": "High risk of ankle and knee injuries; needs large open field; weather dependent (mud, rain make play difficult); requires at least 10 players for full match; potential for uneven skill levels leading to frustration."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/family-playing-badminton-in-park_2345-6789.jpg",
+    "title": "Badminton",
+    "benefits": "Improves hand-eye coordination; enhances reflexes; good cardio with lower impact than many sports; portable equipment; can be played casually or competitively.",
+    "drawback": "Wind outdoors can affect shuttle trajectory; requires net setup; risk of shoulder/elbow strain; sometimes expensive for high-quality rackets/shuttlecocks; limited court availability in some areas."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/friends-playing-volleyball-on-sand_3456-7890.jpg",
+    "title": "Volleyball",
+    "benefits": "Builds upper-body and core strength; improves jumping ability; great for teamwork and social skills; can be played beach-style or on court; good calorie burn.",
+    "drawback": "Outdoor sand courts are hard on joints; requires net and setup; injuries like wrist, finger, ankle sprains common; weather (wind) can heavily affect play."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/kids-running-in-burlap-bags-outdoors_4567-8901.jpg",
+    "title": "Sack Race",
+    "benefits": "Fun, simple game; good lower body strength and balance; great for kids; encourages laughter and social bonding; minimal equipment required.",
+    "drawback": "Not very strenuous for older players; risk of falling; needs soft ground; limited replay interest; can be messy outdoors."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/children-playing-tug-of-war-in-adventure-park_5678-9012.jpg",
+    "title": "Tug of War",
+    "benefits": "Builds teamwork; develops upper body and core strength; helps improve grip strength; fun group activity; can be competitive or casual.",
+    "drawback": "Can cause rope burns; risk of falls and abrupt jerking motions can cause strain; needs safe ground and clear rules; equipment (a strong rope) required."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/happy-family-playing-frisbee-in-park_6789-0123.jpg",
+    "title": "Frisbee",
+    "benefits": "Excellent for agility, reflexes; improves coordination; fun outdoors; low equipment cost; easy to transport; works in many open spaces.",
+    "drawback": "Wind affects flight; frisbee can get lost; risk of minor bumps or collisions; requires open space free of trees/obstacles; limited competitiveness in casual play."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/young-people-playing-hopscotch-flat-vector-game_7890-1234.jpg",
+    "title": "Hopscotch",
+    "benefits": "Good for balance and coordination; improves leg strength in kids; encourages number recognition; can be played on pavement/chalk; low cost.",
+    "drawback": "Only really suitable for children; may be boring for older players; weather (rain) can wipe chalk; hard surfaces can hurt if one falls."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/kids-playing-chess-outdoors-in-the-park_8901-2345.jpg",
+    "title": "Outdoor Chess",
+    "benefits": "Improves strategic thinking; patience; mental agility; can be played at any age; low physical risk; portable chess sets are inexpensive.",
+    "drawdrawback": "Not physical — less cardio benefit; weather (wind, rain) can disrupt pieces; needs concentration; can take long time; limited social physical interaction."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/group-playing-ring-toss-outdoors_9012-3456.jpg",
+    "title": "Ring Toss",
+    "benefits": "Good for hand-eye coordination; low risk; simple rules; suitable for all ages; portable; fun at picnics and family gatherings.",
+    "drawback": "Can be repetitive; limited full-body exercise; wind or bad throwing surfaces reduce fun; small games may not engage more competitive players."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/family-cycling-on-trail-outdoors_0123-4567.jpg",
+    "title": "Cycling",
+    "benefits": "Excellent for cardiovascular health; builds leg strength; boosts endurance; reduces stress; can be done alone or with group; eco-friendly transport alternative.",
+    "drawback": "Risk of accidents, especially on roads; requires a good quality bike and safety gear; maintenance costs; weather dependent; terrain can limit where you can ride."
+  }
+]

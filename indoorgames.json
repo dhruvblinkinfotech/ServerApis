@@ -1,0 +1,62 @@
+[
+  {
+    "image": "https://image.freepik.com/free-photo/family-playing-chess-at-home_1234-5678.jpg",
+    "title": "Chess",
+    "benefits": "Improves concentration and memory; develops problem-solving skills; boosts strategic and critical thinking; encourages patience and planning; suitable for all ages.",
+    "drawback": "Not physically active; long games can feel slow; may be intimidating for beginners; limited appeal for those seeking fast-paced games."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/kids-playing-carrom-board_2345-6789.jpg",
+    "title": "Carrom",
+    "benefits": "Enhances hand-eye coordination; improves focus and aim; promotes social interaction; can be enjoyed casually or competitively; fun for all age groups.",
+    "drawback": "Requires flat surface and board; small coins can be choking hazard for children; not physically engaging; skill differences can discourage beginners."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/kids-playing-ludo-game_3456-7890.jpg",
+    "title": "Ludo",
+    "benefits": "Simple and family-friendly; teaches patience and turn-taking; promotes bonding; luck element keeps it exciting for kids; easy to learn.",
+    "drawback": "Relies heavily on dice luck (less strategy); can drag on; older players may find it repetitive; limited skill development."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/teenagers-playing-table-tennis-indoors_4567-8901.jpg",
+    "title": "Table Tennis",
+    "benefits": "Improves reflexes and hand-eye coordination; burns calories; boosts concentration; suitable for small indoor spaces; competitive and fast-paced.",
+    "drawback": "Requires table and paddles; risk of wrist/elbow strain; limited space in small homes; balls can get lost easily."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/people-playing-snooker_5678-9012.jpg",
+    "title": "Billiards / Snooker",
+    "benefits": "Enhances focus, patience, and precision; promotes strategic thinking; social and relaxing; develops fine motor skills.",
+    "drawback": "Requires large indoor space and expensive table; not physically demanding; long playtime; can feel slow-paced for some."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/family-playing-card-games_6789-0123.jpg",
+    "title": "Card Games (e.g., Uno, Poker)",
+    "benefits": "Encourages strategic thinking; improves memory and math skills; portable and inexpensive; wide variety of games available; promotes social bonding.",
+    "drawback": "Luck can overshadow skill; addictive gambling risks in certain card games; cards can wear out; may cause conflicts if competitive."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/children-playing-puzzle-at-home_7890-1234.jpg",
+    "title": "Puzzle Games",
+    "benefits": "Boosts problem-solving skills; improves memory and focus; reduces stress; good for solo play; enhances creativity and patience.",
+    "drawback": "Can be frustrating if too hard; not physically active; takes long time to complete large puzzles; limited replay value once solved."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/group-of-kids-playing-video-games_8901-2345.jpg",
+    "title": "Video Games",
+    "benefits": "Improves reflexes, multitasking, and decision-making; highly entertaining; wide variety of genres; online play fosters social connections; can improve hand-eye coordination.",
+    "drawback": "Excessive screen time harms health; can cause addiction; sedentary lifestyle risks; may impact sleep patterns; cost of consoles/games."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/group-of-friends-playing-monopoly_9012-3456.jpg",
+    "title": "Board Games (e.g., Monopoly, Scrabble)",
+    "benefits": "Enhances vocabulary, math, and strategy; promotes family bonding; improves patience and negotiation skills; portable and affordable.",
+    "drawback": "Games can drag on; disputes may arise over rules; pieces/cards can get lost; limited physical activity."
+  },
+  {
+    "image": "https://image.freepik.com/free-photo/group-of-kids-doing-indoor-yoga_0123-4567.jpg",
+    "title": "Indoor Yoga",
+    "benefits": "Improves flexibility and strength; reduces stress; enhances concentration; suitable for all ages; can be done without special equipment.",
+    "drawback": "Requires quiet space; beginners may need guidance; not competitive (less exciting for some); risk of strain if postures are incorrect."
+  }
+]
