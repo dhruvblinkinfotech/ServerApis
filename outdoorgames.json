@@ -45,7 +45,7 @@
     "image": "https://image.freepik.com/free-photo/kids-playing-chess-outdoors-in-the-park_8901-2345.jpg",
     "title": "Outdoor Chess",
     "benefits": "Improves strategic thinking; patience; mental agility; can be played at any age; low physical risk; portable chess sets are inexpensive.",
-    "drawdrawback": "Not physical — less cardio benefit; weather (wind, rain) can disrupt pieces; needs concentration; can take long time; limited social physical interaction."
+    "drawback": "Not physical — less cardio benefit; weather (wind, rain) can disrupt pieces; needs concentration; can take long time; limited social physical interaction."
   },
   {
     "image": "https://image.freepik.com/free-photo/group-playing-ring-toss-outdoors_9012-3456.jpg",
@@ -60,3 +60,4 @@
     "drawback": "Risk of accidents, especially on roads; requires a good quality bike and safety gear; maintenance costs; weather dependent; terrain can limit where you can ride."
   }
 ]
+
