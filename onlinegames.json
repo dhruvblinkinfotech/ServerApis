@@ -1,47 +1,58 @@
 [
 	{
+		"title": "Hill Climb Racing",
+		"image": "https://blinkgames007.github.io/assets/img_hillclimbracing.jpg",
+		"link": "https://blinkgames007.github.io/G/hill-climb-racing/"
+	},
+	{
+		"title": "Level Devil",
+		"image": "https://blinkgames007.github.io/assets/img_leveldevil.jpg",
+		"link": "https://blinkgames007.github.io/G/level-devil/"
+	},
+	{
 		"title": "Slither.io",
 		"image": "https://blinkgames007.github.io/assets/img_slitherio.png",
-		"link": "https://blinkgames007.github.io/Games/slither.io/home.html"
+		"link": "https://blinkgames007.github.io/G/slither.io/home.html"
 	},
 	{
 		"title": "Chess",
 		"image": "https://blinkgames007.github.io/assets/img_chess.jpg",
-		"link": "https://blinkgames007.github.io/Games/chess/setup.html"
+		"link": "https://blinkgames007.github.io/G/chess/setup.html"
 	},
 	{
 		"title": "Puzzle",
 		"image": "https://blinkgames007.github.io/assets/img_puzzle.jpg",
-		"link": "https://blinkgames007.github.io/Games/puzzle/index.html"
+		"link": "https://blinkgames007.github.io/G/puzzle/"
 	},
 	{
 		"title": "Hextris",
 		"image": "https://blinkgames007.github.io/assets/img_hextris.png",
-		"link": "https://blinkgames007.github.io/Games/hextris/index.html"
+		"link": "https://blinkgames007.github.io/G/hextris/"
 	},
 	{
 		"title": "Polyominoblocks",
 		"image": "https://blinkgames007.github.io/assets/img_polyomino.jpg",
-		"link": "https://blinkgames007.github.io/Games/polyominoblocks/index.html"
+		"link": "https://blinkgames007.github.io/G/polyominoblocks/"
 	},
 	{
 		"title": "Tic tac toe",
 		"image": "https://blinkgames007.github.io/assets/img_tictactoe.webp",
-		"link": "https://blinkgames007.github.io/Games/tictactoe/setup.html"
+		"link": "https://blinkgames007.github.io/G/tictactoe/setup.html"
 	},
 	{
 		"title": "Snake Game",
 		"image": "https://blinkgames007.github.io/assets/img_snakegame.jpg",
-		"link": "https://blinkgames007.github.io/Games/snakegame/index.html"
+		"link": "https://blinkgames007.github.io/G/snakegame/"
 	},
 	{
 		"title": "2048",
 		"image": "https://blinkgames007.github.io/assets/img_2048.png",
-		"link": "https://blinkgames007.github.io/Games/2048/index.html"
+		"link": "https://blinkgames007.github.io/G/2048/"
 	},
 	{
 		"title": "Spider Solitaire",
 		"image": "https://blinkgames007.github.io/assets/img_spidercard.jpg",
-		"link": "https://blinkgames007.github.io/Games/spidercard/Spider.htm"
+		"link": "https://blinkgames007.github.io/G/spidercard/Spider.htm"
 	}
 ]
+
