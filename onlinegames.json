@@ -1,5 +1,25 @@
 [
 	{
+		"title": "Stickman fighter epic battle 2",
+		"image": "https://blinkgames007.github.io/assets/img_stickmanepicbattle2.jpg",
+		"link": "https://blinkgames007.github.io/G/stickman-fighter-epic-battle2/"
+	},
+	{
+		"title": "Stickman fighter epic battle",
+		"image": "https://blinkgames007.github.io/assets/img_stickmanepicbattle.jpg",
+		"link": "https://blinkgames007.github.io/G/stickman-fighter-epic-battle/"
+	},
+	{
+		"title": "Eggy car",
+		"image": "https://blinkgames007.github.io/assets/img_eggycar.jpg",
+		"link": "https://blinkgames007.github.io/G/eggy-car/"
+	},
+	{
+		"title": "Block The Pig",
+		"image": "https://blinkgames007.github.io/assets/img_blockthepig.jpg",
+		"link": "https://blinkgames007.github.io/G/block-the-pig/"
+	},
+	{
 		"title": "Hill Climb Racing",
 		"image": "https://blinkgames007.github.io/assets/img_hillclimbracing.jpg",
 		"link": "https://blinkgames007.github.io/G/hill-climb-racing/"
@@ -55,4 +75,5 @@
 		"link": "https://blinkgames007.github.io/G/spidercard/Spider.htm"
 	}
 ]
+
 
