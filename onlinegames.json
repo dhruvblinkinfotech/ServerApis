@@ -1,5 +1,20 @@
 [
 	{
+    "title": "Subway Surfers Seoul",
+    "image": "https://blinkgames007.github.io/assets/img_subwayseoul.jpg",
+    "link": "https://blinkgames007.github.io/G/subway-surfers-seoul/"
+  },
+  {
+    "title": "Stickman fighter school run",
+    "image": "https://blinkgames007.github.io/assets/img_stickmanschoolrun.jpg",
+    "link": "https://blinkgames007.github.io/G/stickman-school-run/"
+  },
+  {
+    "title": "Stickman fighter mega brawl",
+    "image": "https://blinkgames007.github.io/assets/img_stickmanfighter.jpg",
+    "link": "https://blinkgames007.github.io/G/stickman-fighter-mega-brawl/"
+  },
+	{
 		"title": "Stickman fighter epic battle 2",
 		"image": "https://blinkgames007.github.io/assets/img_stickmanepicbattle2.jpg",
 		"link": "https://blinkgames007.github.io/G/stickman-fighter-epic-battle2/"
@@ -75,5 +90,6 @@
 		"link": "https://blinkgames007.github.io/G/spidercard/Spider.htm"
 	}
 ]
+
 
 
